@@ -1,0 +1,10 @@
+.DS_Store
+backup/
+tf-lambda/.terraform/
+tf-lambda/.terraform*
+tf-lambda/terraform.tfstate.backup
+vpc/
+vpc/.terraform/
+vpc/.terraform.lock.hcl
+basics/.terraform
+basics/.terraform.*
